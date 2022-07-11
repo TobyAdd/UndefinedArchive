@@ -7,7 +7,7 @@ Special thanks to [Eimaen](https://github.com/Eimaen) and [Igor Pavlov](https://
 # PassFab for RAR and Undefined Archive
 |Features|Undefined Archive|PassFab for RAR|
 |-----|-----|-----|
-|Paid|Free|$31.9|
+|Cost|Free|$31.9|
 |Archive Support|RAR, ZIP, 7z|Rar Only|
 |Performance|Slow|Faster|
 |Dictionaty Attack|Yes|Yes|
